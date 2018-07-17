@@ -24,4 +24,4 @@ $ npm start
 
 ## Demo
 
-<img src="./demo">
+<img src="./image/demo.png" align="middle">
