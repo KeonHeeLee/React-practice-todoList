@@ -1,4 +1,4 @@
-### React-Practice :Todo list
+# React-Practice :Todo list
 
 This web-application is used to practice react.js.<br/>
 
